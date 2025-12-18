@@ -1,0 +1,7 @@
+{
+  "name": "Auto Mecânica KAEN - Landing Page & AI Assistant",
+  "description": "A premium dark-themed landing page for an auto repair shop featuring an integrated Gemini AI assistant for customer service and service booking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
